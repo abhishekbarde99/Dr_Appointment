@@ -1,0 +1,375 @@
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\appsettings.json
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Web_API.exe
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Web_API.deps.json
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Web_API.runtimeconfig.json
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Azure.Core.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.csproj.AssemblyReference.cache
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfoInputs.cache
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.csproj.CoreCompileInputs.cache
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\scopedcss\bundle\Web_API.styles.css
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.csproj.CopyComplete
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\refint\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\Web_API.genruntimeconfig.cache
+D:\Mentor_Astha_Sharma_Task\Third_Assignment\Web_API\obj\Debug\net6.0\ref\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.csproj.AssemblyReference.cache
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfoInputs.cache
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.csproj.CoreCompileInputs.cache
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\refint\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\appsettings.json
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Web_API.exe
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Web_API.deps.json
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Web_API.runtimeconfig.json
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Azure.Core.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\scopedcss\bundle\Web_API.styles.css
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.csproj.CopyComplete
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\Web_API.genruntimeconfig.cache
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\obj\Debug\net6.0\ref\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Web.Http.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Mentor_Astha_Sharma_Task\6th\Web_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.csproj.AssemblyReference.cache
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfoInputs.cache
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.csproj.CoreCompileInputs.cache
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\refint\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\appsettings.json
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Web_API.exe
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Web_API.deps.json
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Web_API.runtimeconfig.json
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Azure.Core.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Web.Http.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\scopedcss\bundle\Web_API.styles.css
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.csproj.CopyComplete
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\Web_API.genruntimeconfig.cache
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\obj\Debug\net6.0\ref\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\FluentAssertions.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\xunit.assert.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\xunit.core.dll
+D:\Mentor_Astha_Sharma_Task\9th\Web_API\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\appsettings.json
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Web_API.exe
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Web_API.deps.json
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Web_API.runtimeconfig.json
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Azure.Core.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\FluentAssertions.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Web.Http.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\xunit.assert.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\xunit.core.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.csproj.AssemblyReference.cache
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfoInputs.cache
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.csproj.CoreCompileInputs.cache
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\scopedcss\bundle\Web_API.styles.css
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.csproj.CopyComplete
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\refint\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\Web_API.genruntimeconfig.cache
+D:\Mentor_Astha_Sharma_Task\Unit Testing\Web_API\obj\Debug\net6.0\ref\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\appsettings.json
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Web_API.exe
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Web_API.deps.json
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Web_API.runtimeconfig.json
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Azure.Core.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\FluentAssertions.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Web.Http.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\xunit.abstractions.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\xunit.assert.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\xunit.core.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\xunit.execution.dotnet.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.csproj.AssemblyReference.cache
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfoInputs.cache
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.AssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.csproj.CoreCompileInputs.cache
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\scopedcss\bundle\Web_API.styles.css
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.csproj.CopyComplete
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\refint\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.pdb
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\Web_API.genruntimeconfig.cache
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\obj\Debug\net6.0\ref\Web_API.dll
+D:\Mentor_Astha_Sharma_Task\Docter_AppointMent_Pro\Web_API\bin\Debug\net6.0\FluentValidation.dll
